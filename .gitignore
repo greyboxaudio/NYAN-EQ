@@ -1,0 +1,7 @@
+
+*.zip
+NYAN-EQ/fp-info-cache
+*.lck
+NYAN-EQ/\#auto_saved_files\#
+*.raw
+*.log
